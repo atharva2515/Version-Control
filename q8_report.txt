@@ -1,0 +1,38 @@
+User Login Report
+==================
+Currently Logged-in Users:
+labuser  :1           2026-07-21 15:31 (:1)
+cs101-26 :2           2026-07-28 08:24 (:2)
+cs293-26 :3           2026-07-28 14:00 (:3)
+
+Login Time of Each User:
+labuser 2026-07-21 15:31
+cs101-26 2026-07-28 08:24
+cs293-26 2026-07-28 14:00
+
+Number of Logged-in Users: 3
+
+Last 10 User Logins:
+CS378    :4           :4               Mon Aug  3 16:30 - 16:31  (00:00)
+CS378    :4           :4               Mon Aug  3 14:09 - 16:22  (02:12)
+cs355-la :4           :4               Thu Jul 30 14:44 - 14:45  (00:00)
+root     pts/2        10.129.7.78      Thu Jul 30 08:57 - 09:07  (00:09)
+root     pts/0        10.129.7.78      Thu Jul 30 08:31 - 09:29  (00:58)
+root     pts/0        10.12.25.125     Tue Jul 28 15:00 - 16:14  (01:14)
+cs293-26 :3           :3               Tue Jul 28 14:00   still logged in
+cs101-26 :2           :2               Tue Jul 28 08:24   still logged in
+root     pts/0        10.129.7.78      Tue Jul 28 01:32 - 14:22  (12:50)
+labuser  :1           :1               Tue Jul 21 15:31   still logged in
+
+wtmp begins Wed Jun 21 15:18:38 2023
+
+Number of Unique Users Who Logged In: 146
+
+Most Recent Logins:
+CS378    :4           :4               Mon Aug  3 16:30 - 16:31  (00:00)
+CS378    :4           :4               Mon Aug  3 14:09 - 16:22  (02:12)
+cs355-la :4           :4               Thu Jul 30 14:44 - 14:45  (00:00)
+root     pts/2        10.129.7.78      Thu Jul 30 08:57 - 09:07  (00:09)
+root     pts/0        10.129.7.78      Thu Jul 30 08:31 - 09:29  (00:58)
+
+wtmp begins Wed Jun 21 15:18:38 2023

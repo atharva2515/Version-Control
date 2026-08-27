@@ -1,0 +1,26 @@
+System Information Report
+------------------------
+Current Date and Time: Wed Aug  5 16:43:54 IST 2026
+Current Logged-in User: labuser
+Hostname: sl2-3
+Current Working Directory: /home/labuser/Desktop/lab2
+Available Disk Space:
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              1.6G  3.0M  1.6G   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv  115G   73G   37G  67% /
+tmpfs                              7.7G  201M  7.5G   3% /dev/shm
+tmpfs                              5.0M  4.0K  5.0M   1% /run/lock
+tmpfs                              7.7G     0  7.7G   0% /run/qemu
+/dev/nvme0n1p2                     2.0G  271M  1.6G  15% /boot
+/dev/nvme0n1p1                     1.1G  6.1M  1.1G   1% /boot/efi
+tmpfs                              1.6G   56K  1.6G   1% /run/user/13934
+tmpfs                              1.6G   76K  1.6G   1% /run/user/130
+tmpfs                              1.6G  124K  1.6G   1% /run/user/13793
+tmpfs                              1.6G  132K  1.6G   1% /run/user/13981
+tmpfs                              1.6G  108K  1.6G   1% /run/user/13983
+Available Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       3.7Gi       689Mi       1.3Gi        10Gi       9.9Gi
+Swap:          4.0Gi        65Mi       3.9Gi
+System Uptime:
+ 16:43:54 up 88 days,  4:19,  5 users,  load average: 0.58, 0.64, 0.57

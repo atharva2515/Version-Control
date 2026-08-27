@@ -1,0 +1,28 @@
+User Login Report
+-----------------
+Currently Logged-in Users:
+atharva          console      19 Aug 17:45 
+atharva          ttys000      21 Aug 08:50 
+Login Times:
+atharva 19 Aug
+atharva 21 Aug
+Number of Logged-in Users:        2
+User atharva is currently logged in.
+Last 10 User Logins:
+atharva    ttys000                         Fri 21 Aug 08:50   still logged in
+atharva    ttys000                         Fri 21 Aug 08:50 - 08:50  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:43 - 08:43  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:43 - 08:43  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:39 - 08:39  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:23 - 08:23  (00:00)
+atharva    ttys000                         Thu 20 Aug 22:03 - 22:03  (00:00)
+atharva    ttys000                         Thu 20 Aug 22:03 - 22:03  (00:00)
+atharva    ttys000                         Thu 20 Aug 22:01 - 22:01  (00:00)
+atharva    console                         Wed 19 Aug 17:45   still logged in
+Number of Unique Users Who Logged In:        5
+Most Recent Logins:
+atharva    ttys000                         Fri 21 Aug 08:50   still logged in
+atharva    ttys000                         Fri 21 Aug 08:50 - 08:50  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:43 - 08:43  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:43 - 08:43  (00:00)
+atharva    ttys000                         Fri 21 Aug 08:39 - 08:39  (00:00)
